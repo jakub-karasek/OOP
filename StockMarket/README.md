@@ -1,7 +1,7 @@
 # Stock market simulation
 
 This app was developed as an assigment during OOP couse as a part of the Computer Science Bachelor's Studies at the Faculty of Mathematics, Computer Science, and Mechanics, University of Warsaw.
-In this project the main goal is simulating days in a public transport system.
+In this project the main goal is simulating stock market system and investors.
 
 ## Overview
 ### How to run simulation
