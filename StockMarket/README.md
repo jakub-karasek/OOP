@@ -17,7 +17,7 @@ Inputs template (text in angle brackets describes subsequent data, while text in
 <stock companies <name>: <starting price>>
 <investor's wallet: <funds> <stocks <name>: <count>>
 ```
-For example inputs given in the original task look likte [this] (./StockMarket/input.txt)
+For example inputs given in the original task look like [this](./input.txt)
 
 ### Types of investors
 *RANDOM* - An investor making random investment decisions (implement any strategy, e.g., random order type for buy/sell, random company, random number of shares, random price limit). The randomization occurs according to the specified conditions.
@@ -28,4 +28,4 @@ For example inputs given in the original task look likte [this] (./StockMarket/i
 The simulation will print the final state of the portfolio for each investor after completing all rounds of the simulation.
 
 ## Original task description
-[original task description (in polish)](./StockMarket/Stock-market_task_description.pdf)
+[original task description (in polish)](./Stock-market_task_description.pdf)
