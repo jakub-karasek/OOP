@@ -29,10 +29,10 @@ Data for the simulation will be read from standard input. The format of the data
 #Then the route in the form of pairs:
 <stop name, travel time (string, int)>.
 ```
-Example inputs can be found in the original task description [here](./PublicTransportationSimulation/Public-transport-task-description.pdf)
+Example inputs can be found in the original task description [here](./Public-transport-task-description.pdf)
 
 ### Output
 The simulation will print a description of every action and at the end there will be statistics regarding the whole simulation
 
 ## Original task description
-[original task description (in polish)](./PublicTransportationSimulation/Public-transport-task-description.pdf)
+[original task description (in polish)](./Public-transport-task-description.pdf)
